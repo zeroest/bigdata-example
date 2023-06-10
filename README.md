@@ -9,6 +9,8 @@
 
 ![Architecture](readme/Architecture.png)
 
+# [빅데이터 이해](doc/1-understanding_bigdata)
+
 ---
 
 ## Appendix
